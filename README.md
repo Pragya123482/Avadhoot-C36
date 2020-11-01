@@ -1,6 +1,2 @@
-# Avadhoot-C36
-
-Database
-playerCount: 0
-gameState: 0
-player: 0
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
